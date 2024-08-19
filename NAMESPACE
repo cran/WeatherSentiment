@@ -1,0 +1,14 @@
+export("corr_analys", "generate_tweets", "process_tweet", "sentiment_analys", "sentiment_polarity", "word_cloud_tweet")
+import("data.table",
+       "ggplot2",
+       "RColorBrewer",
+       "sentimentr",
+       "stringr",
+       "tidyr",
+       "tidytext",
+       "tidyverse",
+       "wordcloud"
+       )
+importFrom("graphics", "barplot", "text")
+importFrom("stats", "cor", "runif")
+importFrom("stats", "filter")

@@ -1,0 +1,14 @@
+4e5e3f80000296f2972006dae876b2b6 *DESCRIPTION
+e17a70226bbdb6d1aaac3a9ae400096b *NAMESPACE
+7d2b19827b5f8a919a56bfae66f546a5 *R/corr_analys.R
+3d766fc74dd67a853b4bda5ac0b207e9 *R/generate_tweets.R
+e08b580e65ebe9aecc833dee76474982 *R/process_tweet.R
+3bbbd43d4bad5548d1127ba9b2e4ee49 *R/sentiment_analys.R
+1f939ab212ad2fbadccc924403e5833b *R/sentiment_polarity.R
+4128ed88ce74df877490d4e32079e7a1 *R/word_cloud_tweet.R
+c86cb25197cd091ddff6d4049a5bbaf7 *man/corr_analys.Rd
+9c2f1343e58d32ef5bdbeace7e1fc64b *man/generate_tweets.Rd
+9bbb84d77e4b6634c152fcbe300957de *man/process_tweet.Rd
+f0bdb1eb59ffb24e6f630155c502ecff *man/sentiment_analys.Rd
+b8d48a7bb75ade80ba450c878c3c92c2 *man/sentiment_polarity.Rd
+0eece414757bd5a8b1484eea0aa2bb54 *man/word_cloud_tweet.Rd
